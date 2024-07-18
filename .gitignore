@@ -1,0 +1,11 @@
+Connector_Azure/terraform.tfvars
+Connector_Azure/.terraform.lock.hcl
+Connector_Azure/.terraform/providers/registry.terraform.io/stackguardian/stackguardian/0.1.0/darwin_arm64/LICENSE
+Connector_Azure/.terraform/providers/registry.terraform.io/stackguardian/stackguardian/0.2.0-beta2/darwin_arm64/LICENSE
+Connector_Azure/.terraform/providers/registry.terraform.io/stackguardian/stackguardian/0.2.0-beta2/darwin_arm64/CHANGELOG.md
+Connector_Azure/terraform.tfstate
+Connector_Azure/.terraform/providers/registry.terraform.io/stackguardian/stackguardian/0.1.0/darwin_arm64/terraform-provider-stackguardian_v0.1.0
+Connector_Azure/.terraform/providers/registry.terraform.io/stackguardian/stackguardian/0.2.0-beta2/darwin_arm64/terraform-provider-stackguardian_v0.2.0-beta2
+Connector_Azure/.terraform/providers/registry.terraform.io/stackguardian/stackguardian/0.1.0/.DS_Store
+Connector_Azure/.terraform/providers/registry.terraform.io/stackguardian/stackguardian/0.1.0/darwin_arm64/README.md
+Connector_Azure/.terraform/providers/registry.terraform.io/stackguardian/stackguardian/0.2.0-beta2/darwin_arm64/README.md
