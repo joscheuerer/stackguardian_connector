@@ -18,3 +18,11 @@ variable "armClientSecret" {
   type = string
   description = "Client Secret for Enterprise App"
 }
+variable "api_key" {
+  type = string
+  description = "API key to authenticate to StackGuardian"
+}
+variable "org_name" {
+  type = string
+  description = "Organisation name in StackGuardian platform"
+}
